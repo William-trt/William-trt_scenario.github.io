@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://www.francetvinfo.fr/pictures/fnCgJgrR6OuBODMpaPalVa4OcOM/752x423/2020/02/09/phpN2v4Aa.png);
+    background:cover ;
+    
+}
+
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+    color: coral;
+    font-size:25pt;
+    text-align: center;
+}
+p{
+    font-size:15pt;
+    margin-left: 30px;
+}
+.img1 {
+    display : flex;
+    margin : auto;
+  }
+.img2 {
+    display : flex;
+    margin : auto;
+  
+    
+}
+.map { 
+    display : flex;
+    margin : auto ; 
+
+}
+.coor {
+    text-align : center;
+}
+   
+#indice {
+    background-color : white;
+    width : 800px;
+    align-content: center;
+    margin :  auto; 
+    
+}
