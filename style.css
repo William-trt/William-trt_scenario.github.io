@@ -1,10 +1,7 @@
 body{
     background-image: url(https://www.francetvinfo.fr/pictures/fnCgJgrR6OuBODMpaPalVa4OcOM/752x423/2020/02/09/phpN2v4Aa.png);
-    background:cover ;
-    
+    background: cover;
 }
-
-
 h1 {
   color: red;
   text-align: center;
@@ -27,8 +24,7 @@ p{
     display : flex;
     margin : auto;
   
-    
-}
+    }
 .map { 
     display : flex;
     margin : auto ; 
@@ -45,3 +41,4 @@ p{
     margin :  auto; 
     
 }
+ 
